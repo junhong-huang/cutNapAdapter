@@ -1,0 +1,2 @@
+Expected run time for demo: within 5 seconds.
+cutNapAdapter -a AAGCAGTGGTATCAACGCAGAGT -b AGTCGTAGTAAGTCTGTGCTCG -l 15 -e 0.1 -c 6 -C 6 -1 demo_R1.fq.gz -2 demo_R2.fq.gz -o ./results -f demo
